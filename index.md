@@ -9,7 +9,7 @@ title: Student Blog
 This is my homepage! Take a look around!
 
 # All About Me
-<img src="image.png"
+<img src="![Alt text](images/image.png)"
 width="180"
 height="300"
 />
