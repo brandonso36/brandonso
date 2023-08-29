@@ -4,12 +4,26 @@ title: Student Blog
 ---
 
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
 
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
+## Brandon So's Home Page
+This is my homepage! Take a look around!
 
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+# All About Me
+<img src="image.png"
+width="180"
+height="300"
+/>
+
+My name is Brandon So! I've lived in California my whole life and I play volleyball. I like video games and going to the gym and my favorite animal is the turtle. 
+## Class Schedule
+
+Period 1: AP Physics
+
+Period 2: AP English Language
+
+Period 3: US History
+
+Period 4: AP Calculus BC
+
+Period 5: AP Computer Science Principles
+
