@@ -3,7 +3,7 @@ comments: false
 layout: post
 title: Game of Life
 description: Conway's Game of Life
-type: tangibles
+type: hacks
 courses: { compsci: {week: 2} }
 categories: [C4.1]
 ---
