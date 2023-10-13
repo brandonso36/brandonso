@@ -4,6 +4,7 @@ user_input = input("Enter rock, paper, or scissors: ")
 ai_number = random.randint(1, 3)
 
 def win_lose():
+    ai_choice()
     if user_input == "rock" and ai_number == 3:
         print("You chose rock. You win!")
     elif  user_input == "rock" and ai_number == 2:
@@ -22,9 +23,8 @@ def win_lose():
         print("You chose scissors. You win!")
     elif user_input == "scissors" and ai_number == 3:
         print("You chose scissors. It's a tie!")
-    else: 
-        print("Enter a valid input")
-        exit()
+    else:
+        print("Invalid input. Please try again.")
 
 def ai_choice():
     if ai_number == 1:
@@ -33,6 +33,8 @@ def ai_choice():
         print("AI chose Paper!")
     elif ai_number == 3:
         print("AI chose Scissors!")
-    
-win_lose()
-ai_choice()
+
+if user_input in ["rock", "paper", "scissors"]:
+    win_lose()
+else:
+    print("Invalid input. Please try again.")
