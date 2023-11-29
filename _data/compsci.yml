@@ -14,3 +14,9 @@ Unit3:
   description: Work on Passion Project.
   start: 8
   end: 12
+Unit4:
+  title: Warm-up Data Abstraction Project, Create Performance Task (CPT) kickoff
+  description: Mini Project with frontend styling using SASS, JavaScript, managing user events and representing Algorithm
+  start: 13
+  end: 14
+```
